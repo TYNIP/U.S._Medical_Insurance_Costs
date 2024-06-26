@@ -25,6 +25,8 @@ This project involves the analysis of a dataset containing U.S. medical insuranc
 5. **Predictive Modeling**: Build regression models to predict medical charges based on the available features.
 6. **Conclusion and Recommendations**: Summarize the findings and provide actionable recommendations based on the analysis.
 
+
+[DATA ANALYSIS](./us_medical_insurance_costs.ipynb)
 [CONSLUSIONS AND REPORT](./conclusion_and_reporting.md)
 
 ## Considerations
