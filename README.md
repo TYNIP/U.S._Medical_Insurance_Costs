@@ -27,6 +27,7 @@ This project involves the analysis of a dataset containing U.S. medical insuranc
 
 
 [DATA ANALYSIS](./us_medical_insurance_costs.ipynb)
+
 [CONSLUSIONS AND REPORT](./conclusion_and_reporting.md)
 
 ## Considerations
